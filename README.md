@@ -1,4 +1,4 @@
-# Diablo2Reborn-Releases
+# Diablo II: Reborn - Releases
 Diablo 2: Reborn Private Server Releases
 
 Mission statement
