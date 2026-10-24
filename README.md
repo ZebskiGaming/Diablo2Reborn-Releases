@@ -1,7 +1,5 @@
-# Diablo II: Reborn - Releases
-Diablo 2: Reborn Private Server Releases
-
-Mission statement
+# DIABLO II: REBORN - Mission statement
+=======================================
 
 Diablo II: Reborn exists to bring new life to the game we love without losing what made it great.
 
