@@ -64,7 +64,7 @@ The download contains Reborn's own files (the game data, `version.dll` and `Rebo
 ## Updating to a new version
 
 1. Delete the old `data` folder from your Reborn folder.
-2. Extract the new zip the same way as above, **replacing every file** it asks about. This also resets your graphics settings (`d2gl.json`) to Reborn's.
+2. Extract the new zip the same way as above, **replacing every file** it asks about. Your graphics settings (`d2gl.ini`) are kept.
 3. **Coming from Pre-Alpha v3 or older:** delete `RebornLoader.exe` and any shortcut to it. Start the game with `Play Reborn.bat` from now on.
 4. Everyone in a game must have compatible versions. Compare `VERSION.txt` with the host if you get disconnected when joining.
 
