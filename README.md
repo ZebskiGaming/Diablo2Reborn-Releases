@@ -19,6 +19,9 @@ Reborn is, and always will be, free. No pay-to-win, no shortcuts for sale. Just 
 ## Features at a glance
 
 - **Class reworks** that bring forgotten skills back to life, with more to come.
+- **Endgame maps:** map items in four tiers that open their own areas, with modifiers, rewards and map bosses.
+- **A bigger stash and inventory:** a tabbed stash with five tabs shared by your whole account plus Currency and Gems tabs, two extra inventory bags, and a charm inventory where charms do their work.
+- **Empower and Corrupt** your best items with the Angelic Quill and Hellforged Horn.
 - **Sharper, smoother graphics** (D2GL) and **widescreen up to 1068×600**, approved on the Reborn realm.
 - **Quality of life:** Ctrl+click quick-move, gold auto-pickup, stat roll ranges on hover, purple uniques, and a Show Items toggle.
 - **A closed realm** (characters saved on the server, every game players 8) and **open play**.
@@ -55,6 +58,14 @@ The download contains Reborn's own files (the game data, `version.dll` and `Rebo
    - **Closed realm** (characters saved on the server, every game is players 8): click the main **Battle.net** button, create an account and log in.
    - **Open play** (characters saved on your PC): click **Other Multiplayer > Open Battle.net**.
 
+## Inventory and stash
+
+- **Inventory:** four buttons right of your gold switch between **Main**, **Bag 2**, **Bag 3** and **Charms**. Small, Large and Grand Charms only give their stats in Charms; anywhere else they're just carried. Picked-up items fill Main, then Bag 2, then Bag 3 (never Charms); charms go to Charms first.
+- **Stash:** the buttons under the stash pick a tab. Your own tab belongs to that character. The five shared tabs, **Currency** and **Gems** are shared by every character on your account (softcore and hardcore, ladder and non-ladder are kept apart). Currency and Gems hold up to 999 of each.
+- **Ctrl+click** moves an item between your inventory and the stash or cube, into the bag that's open.
+- Only one game at a time can use an account's shared tabs. If another of your characters is still in a game, the game tells you; your own tab still works.
+- **Closed realm:** shared tabs are saved on the server. **Single player and open play:** they're saved in the `RebornStash` folder inside your Reborn folder. Back it up together with your `Save` folder.
+
 ## Graphics and widescreen
 
 - **Ctrl+O** in game opens the graphics settings (D2GL): window size, fullscreen, sharpening and other effects. Set the window size to your monitor's resolution for the sharpest picture.
@@ -67,6 +78,7 @@ The download contains Reborn's own files (the game data, `version.dll` and `Rebo
 2. Extract the new zip the same way as above, **replacing every file** it asks about. Your graphics settings (`d2gl.ini`) are kept.
 3. **Coming from Pre-Alpha v3 or older:** delete `RebornLoader.exe` and any shortcut to it. Start the game with `Play Reborn.bat` from now on.
 4. Everyone in a game must have compatible versions. Compare `VERSION.txt` with the host if you get disconnected when joining.
+5. **Pre-Alpha v8 makes the inventory and stash bigger.** Once a character has been played on v8 or newer, never open it with an older patch: items in the new bags and stash rows would be lost.
 
 ## If something goes wrong
 
